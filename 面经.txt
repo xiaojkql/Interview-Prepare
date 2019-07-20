@@ -1,0 +1,115 @@
+Embedding:
+1. 关于word2vec
+word2vec如何训练，hierarhical softmax和negative sampling
+2. Sentence embedding
+3. 文章 embedding
+4. word2vec和GloVec和fasttext
+5. 层次softmax和负采样的原理和公式；GloVec的推导，解决对称问题；負采样的采样原理，为什么要这样采样
+6. charCNN介绍
+7. Fasttext原理，相比于word2vec有什么优势，Fasttext哈希规则，怎么把语义相近的词哈希到一个桶里
+8. word2vec是有监督的还是无监督的？
+9. cbow和skipgram的区别
+10. LDA的词表示和word2vec的词表示有什么区别
+11. Fasttext 原理，为什么用skipgram不用cbow，負采样怎么做到，公式是什么？
+12. Fasttext怎么做分类的
+13. 词向量用什么训练的，数据量有多少，怎么评价词向量的质量的？词向量的维度是多少，为什么要选这个维度？文本分类中的多义词问题可以怎么解决？
+14. 词向量的评价指标：词汇相似度任务，类比任务，实际业务效果
+
+
+NER
+1. 命名实体识别，CRF
+2. CRF-loss梯度
+3. Viterbi解码公式和简单代码；
+4. beam-search decode介绍；
+5. BILSTM + CRF模型的原理
+6. 隐马尔可夫模型了解吗，和CRF的区别
+7. HMM做了哪些独立性假设
+8. HMM的训练方法
+9. CRF的预测方法，维特比算法的过程
+10. BILSTM+CRF的训练目标？状态转移矩阵是joint learn的吗？维度是多少？
+11. 维特比算法的时间复杂度
+
+
+transformer
+1. transformer结构
+2. self-attention原理公式--为什么有效
+3. 画Transformer的结构图，讲一下原理，为什么self-attention可以替代seq2seq
+4. transformer中句子的encoder表示是什么；怎么加入词序信息的。
+
+
+1.注意力机制介绍（原理、数学）
+seq2seq-attention原理和公式，机器翻译的Attention机制，里面的q,k,v分别代表什么
+soft、hard-attention
+self-attention原理公式
+Attention有哪些变种，为什么Attention模型的F指标还比不上作为baseline的textCNN？
+
+
+rnn
+1. rnn梯度弥散和爆炸的原因，lstm为什么不会这样
+2. lstm公式
+3. CNN和RNN各自在文本方面的特点，什么时候用。
+4. 关于LSTM、GRU、RNN的区别，梯度下降的过程，如何改善梯度下降的缺点。LSTM解决梯度爆炸或者梯度消失的数学逻辑。
+5.  lstm结构
+
+
+
+BERT
+
+
+
+cnn
+1. cnn在文本中的用法，pooling的作用，有哪些pooling
+2. 关于文本分类简述TextCNN的步骤，关于TextCNN如何改变设计其他网络结构，多层的CNN而非多核的CNN。
+
+
+其他
+1. 千万向量中找到和单个向量相似的那个
+ 答：先聚类，然后输入向量先与聚类中心比较再与类中的向量比较，等于做个index
+
+2. 树模型和深度模型的优缺点对比
+
+
+就是很通俗的那种
+1. 基本的nlp工具尝试过哪些
+
+
+
+总
+1 dropout的作用
+2 l1范数和l2范数的区别，作用。为什么bias不正则
+3 深层网络容易过拟合还是浅层网络容易过拟合
+4 BN为什么可以提升效果，BN介绍(为什么加速收敛，从SGD更新角度和weight scale角度)，BN(泛化体现在哪里，训练测试差别，滑动平均还是无偏估计)
+5 如何解决sigmoid函数饱和后的梯度消失问题
+
+
+机器学习
+1. emsemble原理，boosting两种方法，bagging，stacking
+2. gbdt原理，给出了一个比较狭义的解释，但他要比较general的解释
+3. xgboost和随机森林各自的特点，差别。分析他们的不同。
+4. 特征工程有什么常用的方法(NLP)
+5. 生成式学习和判别式学习的区别
+6. EM算法步骤，为什么Q(z)为后验概率(下界)，E-step(更新Q(z)),M-step(更新估计参数)；
+7. SGD，从泰勒一阶展开角度；Xgboost，从泰勒二阶展开角度；
+8. 讲一下随机森林，GBDT，XGBoost
+9. XGBoost相比于GBDT有哪些改进
+10. Adaboost和XGBoost的区别
+11. Adaboost和XGBoost是怎么进行预测的
+
+
+聊项目：(文本分类)
+从项目背景到细节
+评测指标，和实际应用场景
+样本不平衡问题，ohem_loss,focal_loss; smooth_L1_loss公式，mAP计算
+AuC，RoC，mAP，Recall，Precision，F1-score；
+文本分类的评价指标
+讲一下AUC
+讲一下Textcnn的运算过程
+过拟合的解决方法
+为什么Attention的结果和TextCNN的结果相差不大（不太明白什么意思，就讲了下两者对信息提取范围大小的区别）
+文本分类CNN，LSTM和Attention的区别
+怎么用数据处理的trick提升了文本分类的表现
+Attention模型和CNN 的区别？
+CNN文本里时卷积核的宽度代表什么，你怎么选的，为什么要这么选？
+样本不平衡怎么解决的
+CNN用在文本里和用在图像里有什么区别
+分类器有了解吗？对哪些分类算法有研究？
