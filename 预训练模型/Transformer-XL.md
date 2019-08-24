@@ -1,5 +1,7 @@
 [github](https://github.com/kimiyoung/transformer-xl)
 
+[xlnet 论文和代码实现的差别](https://zhuanlan.zhihu.com/p/71735221)
+
 原始Transformer
 固定的长度,造成了长距离依赖不好,特别是每一段文本的首尾的依赖非常不足
 
