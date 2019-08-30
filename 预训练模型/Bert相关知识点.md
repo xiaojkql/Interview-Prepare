@@ -3,6 +3,7 @@ blog
 [张俊林1](https://zhuanlan.zhihu.com/p/65470719)
 [张俊林2](https://zhuanlan.zhihu.com/p/68446772)
 [Bert As Service](https://github.com/hanxiao/bert-as-service)
+[awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp)
 
 ### 预训练
 - word2vec,glove,ELMO都输feature-based即预训练作为额外的输入特征向量，还需要特定的任务相关的神经网络结构来解决相应的问题

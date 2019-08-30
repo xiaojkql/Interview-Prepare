@@ -11,6 +11,9 @@
 [浅谈Attention机制的理解](https://zhuanlan.zhihu.com/p/35571412)
 [自然语言处理中注意力机制综述](https://zhuanlan.zhihu.com/p/54491016)
 
+[Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+[Attention in RNNs](https://medium.com/datadriveninvestor/attention-in-rnns-321fbcd64f05)
+
 2014:
 传统Encoder-Decoder模型结构的缺点：
 - 长距离依赖关系学习能力弱，记忆力弱
