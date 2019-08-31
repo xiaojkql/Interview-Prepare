@@ -1,0 +1,7 @@
+(1) 完成了 SVM,XGBoost,RandomForest,LightGBM 基于词袋模型,if-idf, 词向量等文本特征的文本分类;
+(2) 完成了基于不同的深度学习特征提取器 (CNN,RNN,transformer) 的文本分类;
+(3) 完成了基于 attention,max-pooling,average-pooling,capsule 等高层特征提取器的文本分类;
+(4) 完成了基于 ELMO 深度词向量文本特征的文本分类;
+(5) 完成了基于 Focal loss, 改变阀值, 样本采样等处理类别不平衡方法的文本分类;
+(6) 完成了基于 voting 和 stacking 策略的模型融合;
+(7) 完成了基于 BERT 模型的长文本分类, 尝试了不同的微调方法, 长文本的处理方法.
