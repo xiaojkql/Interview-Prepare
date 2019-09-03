@@ -1,5 +1,7 @@
 [LightGBM——提升机器算法（图解+理论+安装方法+python代码）](https://blog.csdn.net/huacha__/article/details/81057150)
-[Lightgbm 直方图优化算法深入理解](https://blog.csdn.net/anshuai_aw1/article/details/83040541)
+[Lightgbm 直方图优化算法深入理解](
+    
+)
 [LightGBM核心解析与调参](https://juejin.im/post/5b76437ae51d45666b5d9b05)
 ## 1 直方图求最佳分裂点
 (for leaf (for features (for data, for bins)))
