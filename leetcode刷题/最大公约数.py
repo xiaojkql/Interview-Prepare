@@ -6,3 +6,7 @@ def gcd(x, y):
 
 
 print(gcd(100, 4))
+
+import bisect
+
+a = bisect.bisect_left()
