@@ -1,0 +1,48 @@
+Bangasser, B.L., Shamsan, G.A., Chan, C.E., Opoku, K.N., Tüzel, E., Schlichtmann, B.W., Odde, D.J., 2017. Shifting the optimal stiffness for cell migration. Nat. Commun. 8, 15313.
+Bausch, A.R., Ziemann, F., Boulbitch, A.A., Jacobson, K., Sackmann, E., 1998. Local measurements of viscoelastic parameters of adherent cell surfaces by magnetic bead microrheometry. Biophys. J. 75, 2038-2049.
+Boerckel, J.D., Uhrig, B.A., Willett, N.J., Huebsch, N., Guldberg, R.E., 2011. Mechanical regulation of vascular growth and tissue regeneration in vivo. Proc. Natl. Acad. Sci. 108, E674-E680.
+Bressloff, P.C., Xu, B., 2015. Stochastic active-transport model of cell polarization. SIAM J. Appl. Math. 75(2), 652-678.
+Cao, X., Lin, Y., Driscoll, T.P., Franco-Barraza, J., Cukierman, E., Mauck, R.L., Shenoy, V.B., 2015. A chemomechanical model of matrix and nuclear rigidity regulation of focal adhesion size. Biophys. J. 109, 1807-1817.
+Chan, C.E., Odde, D.J., 2008. Traction dynamics of filopodia on compliant substrates. Science 322, 1687-1691.
+Cheng, B., Lin, M., Huang, G., Li, Y., Ji, B., Genin, G.M., Deshpande, V.S., Lu, T., Xu, F., 2017. Cellular mechanosensing of the biophysical microenvironment: a review of mathematical models of biophysical regulation of cell responses. Phys. Life. Rev. 22, 88-119.
+Döbereiner, H.G., Dubin-Thaler, B., Giannone, G., Xenias, H.S., Sheetz, M.P., 2004. Dynamic phase transitions in cell spreading. Phys. Rev. Lett. 93, 108105.
+Elosegui-Artola, A., Bazellières, E., Allen, M.D., Andreu, I., Oria, R., Sunyer, R., Roca-Cusachs, P., 2014. Rigidity sensing and adaptation through regulation of integrin types. Nat. Mater. 13, 631.
+Engler, A.J., Sen, S., Sweeney, H.L., Discher, D.E., 2006. Matrix elasticity directs stem cell lineage specification. Cell 126, 677-689.
+Freisinger, T., Klünder, B., Johnson, J., Müller, N., Pichler, G., Beck, G., Wedlich-Söldner, R., 2013. Establishment of a robust single axis of cell polarity by coupling multiple positive feedback loops. Nat. Commun. 4, 1807.
+Gauthier, N.C., Fardin, M.A., Roca-Cusachs, P., Sheetz, M.P., 2011. Temporary increase in plasma membrane tension coordinates the activation of exocytosis and contraction during cell spreading. Proc. Natl. Acad. Sci. 108, 14467-14472.
+Giannone, G., Dubin-Thaler, B.J., Döbereiner, H.G., Kieffer, N., Bresnick, A.R., Sheetz, M.P., 2004. Periodic lamellipodial contractions correlate with rearward actin waves. Cell 116, 431-443.
+Goehring, N.W., Grill, S.W., 2013. Cell polarity: mechanochemical patterning. Trends Cell Biol. 23, 72-80.
+Goryachev, A.B., Leda, M., 2017. Many roads to symmetry breaking: molecular mechanisms and theoretical models of yeast cell polarity. Mol. Biol Cell 28, 370-380.
+Grashoff, C., Hoffman, B.D., Brenner, M.D., Zhou, R., Parsons, M., Yang, M.T., McLean, M.A., Sligar, S.G., Chen, C.S., Ha, T., Schwartz, M.A., 2010. Measuring mechanical tension across vinculin reveals regulation of focal adhesion dynamics. Nature 466(7303), 263.
+He, S., Su, Y., Ji, B., Gao, H., 2014. Some basic questions on mechanosensing in cell–substrate interaction. J. Mech. Phys. Solids 70, 116-135.
+Hill, A.V., 1938. The heat of shortening and the dynamic constants of muscle. Proc. R. Soc. London. Ser. B. 126(843), 136-195.
+Howard, J., Grill, S.W., Bois, J.S., 2011. Turing's next steps: the mechanochemical basis of morphogenesis. Nat. Rev. Mol. Cell Biol. 12, 392.
+Huttenlocher, A., 2005. Cell polarization mechanisms during directed cell migration. Nat. Cell Biol. 7, 336.
+Kalappurakkal, J.M., Anilkumar, A.A., Patra, C., van Zanten, T.S., Sheetz, M.P., Mayor, S., 2019. Integrin mechano-chemical signaling generates plasma membrane nanodomains that promote cell spreading. Cell 177, 1738-1756.
+Kapsenberg, M.L., 2003. Dendritic-cell control of pathogen-driven T-cell polarization. Nat. Rev. Immunol. 3(12), 984.
+Lawson, M.J., Drawert, B., Khammash, M., Petzold, L., Yi, T.M., 2013. Spatial stochastic dynamics enable robust cell polarization. Plos Comput. Biol. 9, e1003139.
+McBeath, R., Pirone, D.M., Nelson, C.M., Bhadriraju, K., Chen, C.S., 2004. Cell shape, cytoskeletal tension, and RhoA regulate stem cell lineage commitment. Dev. Cell 6, 483-495.
+Mogilner, A., Allard, J., Wollman, R., 2012. Cell polarity: quantitative modeling as a tool in cell biology. Science 336, 175-179.
+Nicolas, A., Geiger, B., Safran, S.A., 2004. Cell mechanosensitivity controls the anisotropy of focal adhesions. Proc. Natl. Acad. Sci. 101, 12520-12525.
+Nisenholz, N., Rajendran, K., Dang, Q., Chen, H., Kemkemer, R., Krishnan, R., Zemel, A., 2014. Active mechanics and dynamics of cell spreading on elastic substrates. Soft Matter 10, 7234-7246.
+Parsons, J.T., Horwitz, A.R., Schwartz, M.A., 2010. Cell adhesion: integrating cytoskeletal dynamics and cellular tension. Nat. Rev. Mol. Cell Biol. 11(9), 633.
+Plotnikov, S.V., Pasapera, A.M., Sabass, B., Waterman, C.M., 2012. Force fluctuations within focal adhesions mediate ECM-rigidity sensing to guide directed cell migration. Cell 151, 1513-1527.
+Ponti, A., Machacek, M., Gupton, S.L., Waterman-Storer, C.M., Danuser, G., 2004. Two distinct actin networks drive the protrusion of migrating cells. Science 305, 1782-1786.
+Prager-Khoutorsky, M., Lichtenstein, A., Krishnan, R., Rajendran, K., Mayo, A., Kam, Z., Bershadsky, A.D., 2011. Fibroblast polarization is a matrix-rigidity-dependent process controlled by focal adhesion mechanosensing. Nat. Cell Biol. 13, 1457.
+Reinsch, S., Gonczy, P., 1998. Mechanisms of nuclear positioning. J. Cell Sci. 111, 2283-2295.
+Schweitzer, Y., Lieber, A.D., Keren, K., Kozlov, M.M., 2014. Theoretical analysis of membrane tension in moving cells. Biophys. J. 106, 84-92.
+Shao, D., Levine, H., Rappel, W.J., 2012. Coupling actin flow, adhesion, and morphology in a computational cell motility model. Proc. Natl. Acad. Sci. 109, 6851-6856.
+Slaughter, B.D., Unruh, J.R., Das, A., Smith, S.E., Rubinstein, B., Li, R., 2013. Non-uniform membrane diffusion enables steady-state cell polarization via vesicular trafficking. Nat. Commun. 4, 1380.
+Sokabe, M., Sachs, F., Jing, Z.Q., 1991. Quantitative video microscopy of patch clamped membranes stress, strain, capacitance, and stretch channel activation. Biophys. J. 59(3), 722-728.
+Solon, J., Levental, I., Sengupta, K., Georges, P.C., Janmey, P.A., 2007. Fibroblast adaptation and stiffness matching to soft elastic substrates. Biophys. J. 93, 4453-4461.
+Thompson, B.J., 2013. Cell polarity: models and mechanisms from yeast, worms and flies. Development 140, 13-21.
+Théry, M., Racine, V., Piel, M., Pépin, A., Dimitrov, A., Chen, Y., Bornens, M., 2006. Anisotropy of cell adhesive microenvironment governs cell internal organization and orientation of polarity. Proc. Natl. Acad. Sci. 103, 19771-19776.
+Tondon, A., Kaunas, R., 2014. The direction of stretch-induced cell and stress fiber orientation depends on collagen matrix stress. Plos One 9, e89592.
+Turing, A.M., 1990. The chemical basis of morphogenesis. B. Math. Biol. 52(1-2), 153-197.
+Wang, T., Hamilla, S., Cam, M., Aranda-Espinoza, H., Mili, S., 2017. Extracellular matrix stiffness and cell contractility control RNA localization to promote cell migration. Nat. Commun. 8, 896.
+Wang, W., Tao, K., Wang, J., Yang, G., Ouyang, Q., Wang, Y., Liu, F., 2017. Exploring the inhibitory effect of membrane tension on cell polarization. Plos Comput. Biol. 13, e1005354.
+Wilson, C.A., Tsuchida, M.A., Allen, G.M., Barnhart, E.L., Applegate, K.T., Yam, P.T., Theriot, J.A., 2010. Myosin II contributes to cell-scale actin network treadmilling through network disassembly. Nature 465, 373.
+Xu, G., Feng, X., Gao, H., 2018. Orientations of cells on compliant substrates under biaxial stretches: a theoretical study. Biophys. J. 114, 701-710.
+Yeung, T., Georges, P.C., Flanagan, L.A., Marg, B., Ortiz, M., Funaki, M., Janmey, P.A., 2005. Effects of substrate stiffness on cell morphology, cytoskeletal structure, and adhesion. Cell Motil. Cytoskel. 60, 24-34.
+Zhang, J., Guo, W.H., Wang, Y.L., 2014. Microtubules stabilize cell polarity by localizing rear signals. Proc. Natl. Acad. Sci. 111, 16383-16388.
+Zhao, Z., Liu, Z., Du, J., Xu, G., Feng, X., 2017. A dynamic biochemomechanical model of geometry-confined cell spreading. Biophys. J. 112, 2377-2386.
